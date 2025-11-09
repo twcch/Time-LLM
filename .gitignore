@@ -1,0 +1,10 @@
+/.venv/
+/dataset/electricity
+/dataset/ETT-small
+/dataset/exchange_rate
+/dataset/illness
+/dataset/m4
+/dataset/PEMS
+/dataset/solar
+/dataset/traffic
+/dataset/weather
